@@ -9,3 +9,7 @@ this gives me the power to create a commit grouping only the logical changes i n
 
 the working directory contains all my current changes without a snapshot for changes.
 the Repository contain all my commit, that gives my the power to go  back to previous changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can see all my changes, and I will add only my logical changes for commit. and then I will  commit the changes.
+
