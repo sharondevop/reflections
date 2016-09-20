@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git file created. I need to instruct  Git to start collect Meta-data in side the directory,files,subdirectory.
+
+How is the staging area is different from the working directory and the Repository? what value
+do you think it offers?
+
+staging area is a middle zone that i can add my changes to it.
+this gives me the power to create a commit grouping only the logical changes i need.
+
+the working directory contains all my current changes without a snapshot for changes.
+the Repository contain all my commit, that gives my the power to go  back to previous changes.
