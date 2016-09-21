@@ -22,3 +22,8 @@ I will create new Branch and start to make my changes on it.
 How do the diagrams help you to visualize the branch structure?
 By visualize the branch structure, i can see the commits associates with branches.
 and i can see when a branch split from the master.
+
+What is the result of merging two branches together? why we represent it in he diagram the way we do?
+After the merging we will have the checkout branch contain all the commit of the branch we have add to it.
+that means all changes introduce in the new branch will be add to the files.
+The diagram help visualize the commits and they parent branches.
