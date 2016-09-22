@@ -34,28 +34,28 @@ Docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-        When files are interdependent, as they often are in code, changing multiple
-        files in each commit makes sense.  A single logical change may touch more
-        than one file, and it would be nice to group the entire change into one
-        commit.
+    When files are interdependent, as they often are in code, changing multiple
+    files in each commit makes sense.  A single logical change may touch more
+    than one file, and it would be nice to group the entire change into one
+    commit.
 
-        When files are independent, tracking them together introduces unnecessary
-        overhead when looking back through the history.  If I changed two unrelated
-        files, then committed the changes together, it would be harder to revert to
-        a previous version of one file without reverting to a previous version of
-        another, which I probably wouldn't want to do.
+    When files are independent, tracking them together introduces unnecessary
+    overhead when looking back through the history.  If I changed two unrelated
+    files, then committed the changes together, it would be harder to revert to
+    a previous version of one file without reverting to a previous version of
+    another, which I probably wouldn't want to do.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-            I used Git for these reflections.
+    I used Git for these reflections.
 
-            I also use it for my resume.  I like that when I delete older experience to
-            make room for newer experience, I don't have to worry about forgetting about
-            the details of the previous experience if I ever want to add it again.
+    I also use it for my resume.  I like that when I delete older experience to
+    make room for newer experience, I don't have to worry about forgetting about
+    the details of the previous experience if I ever want to add it again.
 
-            Of course, I also like to use Git for all of my programming projects.  Since
-            Git was designed with programmers in mind, it really shines for a coding
-            workflow.
+    Of course, I also like to use Git for all of my programming projects.  Since
+    Git was designed with programmers in mind, it really shines for a coding
+    workflow.
 
-            I will also planing to started using Git to track my .bash_profile, as well as
-            my .vimrc, which is a configuration file for my text editor.
+    I will also planing to started using Git to track my .bash_profile, as well as
+    my .vimrc, which is a configuration file for my text editor.
