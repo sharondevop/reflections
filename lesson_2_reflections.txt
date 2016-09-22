@@ -27,3 +27,12 @@ What is the result of merging two branches together? why we represent it in he d
 After the merging we will have the checkout branch contain all the commit of the branch we have add to it.
 that means all changes introduce in the new branch will be add to the files.
 The diagram help visualize the commits and they parent branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+the cons of doing automatic merging:
+* It faster
+* automatic alert if he find conflicts.
+
+the pros of doing automatic merging:
+Can be a conflict and i need to manually edit the files.
