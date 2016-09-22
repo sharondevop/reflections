@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather then keeping all your work local?
+
+      When I need to share my project with more pepole all over the enternet.
+      I can save a backup on a remote repository, and access it for any computer.
+      
+      
