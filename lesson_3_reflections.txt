@@ -9,4 +9,17 @@ stay up-to-date with your remote repository?
       When I work locally I want to be in control in my changes.
       If a developer change the code on the remote repository, i wanna know
       what im pulling to my local repository.
+
+Describe the differences between forks, clones, and branches. when would you
+use one instead on another?
+
+    forks is used only on GitHub platform, i will use fork when i need clone a repository from a user
+    on GitHub and add it to my Github account. this way i can use the user repository as is was created by me.
+
+    clones is used for copy a repository from GitHub to my local machine.
+    it allow me to add, commit the repository locally.
+
+    branches are used locally and remotely to logically groups commit.
+    branches are a fancy name for tag a logical commit group, I can use branch for different part in my code.
+    e.g., fix a bug, working on a new feature.
  
