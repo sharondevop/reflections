@@ -22,4 +22,9 @@ use one instead on another?
     branches are used locally and remotely to logically groups commit.
     branches are a fancy name for tag a logical commit group, I can use branch for different part in my code.
     e.g., fix a bug, working on a new feature.
- 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    I can fetch the last known state of the remote, and work in it off line.
+    I can compere the differential between the origin/master and my master.
+    and when i am want i can merge the two. 
