@@ -27,4 +27,14 @@ What is the benefit of having a copy of the last known state of the remote store
 
     I can fetch the last known state of the remote, and work in it off line.
     I can compere the differential between the origin/master and my master.
-    and when i am want i can merge the two. 
+    and when i am want i can merge the two.
+
+How would you collaborate without using Git or Github? What will be easier,
+and what would be harder?
+
+  I will use Google drive or dropbox to share my directory on the Internet.
+  it will be harder for me follow the changes, and to have a control over it.
+
+  It will be easier to use Git and Github. by using it, I can follow the changes, manage what changes to apply.
+  compare the changes, have a list of history , critical value that I will have if i using git and GitHub, is the ability
+  to go back to previous versions of my files.
