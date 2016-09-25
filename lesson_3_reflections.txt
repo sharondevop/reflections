@@ -32,9 +32,20 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or Github? What will be easier,
 and what would be harder?
 
-  I will use Google drive or dropbox to share my directory on the Internet.
-  it will be harder for me follow the changes, and to have a control over it.
+    I will use Google drive or dropbox to share my directory on the Internet.
+    it will be harder for me follow the changes, and to have a control over it.
 
-  It will be easier to use Git and Github. by using it, I can follow the changes, manage what changes to apply.
-  compare the changes, have a list of history , critical value that I will have if i using git and GitHub, is the ability
-  to go back to previous versions of my files.
+   It will be easier to use Git and Github. by using it, I can follow the changes, manage what changes to apply.
+   compare the changes, have a list of history , critical value that I will have if i using git and GitHub,is the ability
+   to go back to previous versions of my files.
+
+When would you want to make changes in separate branch rather than directly in master?
+What benefits does each approach have?
+
+    when I'm collaborating with a team of people i will separate branches for my master , and for
+    my development. this approach will keep my master clean and working.
+
+    I will use a separate branch if I wanna test new feature.
+
+    by managing different branches I can control what are the changes I want to include in my code.
+    I can create a branch for my team to work on a specific bug.
